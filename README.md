@@ -23,11 +23,11 @@ This module allows organizers to upload student images, track compliance status,
 
 ## Live Demo
 
-[Click here to view the site](https://mohd-aslah.github.io/Unifix-Org/)
+[Click here to view the site](https://Abhishek1669.github.io/Unifix-Org/)
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Mohd-Aslah/Unifix-Org.git
+git clone https://github.com/Abhishek1669/Unifix-Org.git
 cd Unifix-Org
